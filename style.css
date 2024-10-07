@@ -39,5 +39,10 @@ footer p{
 .cartao_conteudo h3{
     background-color: rosybrown;
     text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0,6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }
 
